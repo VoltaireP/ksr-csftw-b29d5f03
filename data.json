@@ -1,0 +1,214 @@
+{
+  "alarms": [],
+  "client": "csftw",
+  "currency": "USD",
+  "daily": [],
+  "display_name": "The Culinary School of Fort Worth",
+  "generated_at": "2026-09-30T02:47:06.514651-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "spend",
+      "label": "Ad spend",
+      "prior": 845.66,
+      "trend": [
+        530.85,
+        506.75,
+        539.67,
+        511.49,
+        626.59,
+        694.0,
+        845.66,
+        834.4
+      ],
+      "value": 834.4
+    },
+    {
+      "format": "int",
+      "key": "crm_leads",
+      "label": "Leads (CRM)",
+      "prior": 34,
+      "trend": [
+        24,
+        26,
+        39,
+        23,
+        27,
+        25,
+        34,
+        45
+      ],
+      "value": 45
+    },
+    {
+      "format": "money",
+      "key": "cpl",
+      "label": "Cost per lead",
+      "prior": 24.87,
+      "trend": [
+        22.12,
+        19.49,
+        13.84,
+        22.24,
+        23.21,
+        27.76,
+        24.87,
+        18.54
+      ],
+      "value": 18.54
+    },
+    {
+      "format": "int",
+      "key": "appointments_booked",
+      "label": "Appointments booked",
+      "prior": 0,
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "value": 0
+    }
+  ],
+  "insight": null,
+  "labels": {},
+  "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": 260.37,
+    "cpl": 18.54,
+    "crm_leads": 45,
+    "crm_leads_raw": 46,
+    "ctr": 0.019059,
+    "google_conversions": 0,
+    "google_spend": 313.66,
+    "impressions": 31062,
+    "landing_page_views": 145,
+    "link_clicks": 592,
+    "messages": 2,
+    "meta_spend": 520.74,
+    "pixel_leads": 49,
+    "reach": 14350,
+    "spend": 834.4,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "segment",
+  "segments": [],
+  "top_ads": [
+    {
+      "ad_name": "DCT-VID- Night Class Cohort-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 21,
+      "spend": 186.22
+    },
+    {
+      "ad_name": "DCT-IMG- Night Class Cohort-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 18,
+      "spend": 99.08
+    },
+    {
+      "ad_name": "DCT-VID- No Online Option. On Purpose-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+      "crm_leads": null,
+      "messages": 2,
+      "pixel_leads": 6,
+      "spend": 70.1
+    },
+    {
+      "ad_name": "Control Ad-IMG-EP 122223864254288652-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 3,
+      "spend": 78.16
+    },
+    {
+      "ad_name": "DCT-VID- New VID + Winner Copy-APPLY",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 1,
+      "spend": 75.1
+    }
+  ],
+  "unavailable": [
+    "tiktok_spend",
+    "tiktok_leads"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 520.74, google 313.66, tiktok 0.00, total 834.40",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 46, counted 45",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 18.54, got 18.54",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-18=12, 2026-09-19=9, 2026-09-20=12, 2026-09-21=8, 2026-09-22=13, 2026-09-23=7, 2026-09-24=9; report has no daily audit rows",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 49.00, CRM leads 45",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-24",
+    "label": "Sep 18 to Sep 24",
+    "start": "2026-09-18"
+  }
+}
