@@ -76,6 +76,12 @@
     }
   ],
   "insight": null,
+  "insights": {
+    "creative": "The night class angle, building the skill at night without leaving a day job, is the clear winner in both video and image form. The athlete-training copy brought 1 lead on $75.10. Next we will test a current night student telling their own story on camera.",
+    "doing": "45 leads came into the CRM this week at $18.54 per lead, up from 34 leads at $24.87 the week before, on about the same total spend of $834.40. The night class campaign is driving the gain.",
+    "look_into": "Google spent $313.66 this week with no conversions counted, and the search ads' landing page links changed mid-week. We recommend confirming the new pages still report form fills to Google. The appointments tile is zero because no booking calendar is connected yet.",
+    "next": "Next we will shift more of the Meta budget toward the night class campaign, whose two ads brought in 21 and 18 leads, and hold the general campaign at a lower level while its newer ads are judged."
+  },
   "labels": {},
   "metrics": {
     "appointments_booked": 0,
