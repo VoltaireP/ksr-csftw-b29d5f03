@@ -1,47 +1,46 @@
 {
   "actions": [
-    "Oct 23: built four new ad sets for Dallas and Fort Worth: the 'No Pause Button' video, the 'See It for Yourself' ad, and two 4 to 9 pm night class images (square and vertical).",
-    "Oct 28: turned on the four new ad sets. The 'No Pause Button' video got a new video file after Meta asked for an update, then passed review.",
-    "Oct 26: turned off the 10.01.26 night class proving ground ad set.",
-    "Oct 28: turned off the 9.16.26 'New IMG + Winner Copy' ad set, and the control image ad went inactive after an ad review."
+    "Nov 2: raised the night class campaign budget from $45 to $50 a day.",
+    "Nov 2: raised the main campaign budget from $27 to $31 a day.",
+    "Nov 2: changed the budget on the Google branded search campaign. The amount is not in the change history."
   ],
   "alarms": [],
   "campaigns": [
     {
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_lpv": 45.1,
-      "cost_per_result": 22.55,
-      "cpc": 1.87,
-      "cpm": 19.65,
-      "impressions": 16061,
-      "landing_page_views": 7,
-      "link_clicks": 169,
+      "cost_per_lpv": 28.15,
+      "cost_per_result": 12.51,
+      "cpc": 1.54,
+      "cpm": 16.49,
+      "impressions": 20487,
+      "landing_page_views": 12,
+      "link_clicks": 220,
       "messages": 0,
-      "pixel_leads": 14,
+      "pixel_leads": 27,
       "platform": "Meta",
-      "reach": 10199,
+      "reach": 12431,
       "result_type": "Website leads",
-      "results": 14.0,
-      "spend": 315.67,
+      "results": 27.0,
+      "spend": 337.78,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
     {
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
-      "cost_per_lpv": 1.87,
-      "cost_per_result": 9.94,
-      "cpc": 1.46,
-      "cpm": 20.13,
-      "impressions": 9383,
-      "landing_page_views": 101,
-      "link_clicks": 129,
+      "cost_per_lpv": 2.25,
+      "cost_per_result": 20.7,
+      "cpc": 1.62,
+      "cpm": 21.48,
+      "impressions": 9638,
+      "landing_page_views": 92,
+      "link_clicks": 128,
       "messages": 0,
-      "pixel_leads": 19,
+      "pixel_leads": 10,
       "platform": "Meta",
-      "reach": 6185,
+      "reach": 5879,
       "result_type": "Website leads",
-      "results": 19.0,
-      "spend": 188.84,
+      "results": 10.0,
+      "spend": 206.99,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -49,37 +48,37 @@
       "campaign_name": "Keywords_Search_Feb26",
       "cost_per_lpv": null,
       "cost_per_result": null,
-      "cpc": 1.06,
-      "cpm": 60.03,
-      "impressions": 1803,
+      "cpc": 1.05,
+      "cpm": 55.64,
+      "impressions": 1855,
       "landing_page_views": null,
-      "link_clicks": 102,
+      "link_clicks": 98,
       "messages": 0,
       "pixel_leads": 0,
       "platform": "Google",
       "reach": null,
       "result_type": "Conversions",
       "results": 0.0,
-      "spend": 108.24,
+      "spend": 103.21,
       "unique_outbound_clicks": null,
       "uo_ctr": null
     },
     {
       "campaign_name": "Branded_Search_Feb26",
       "cost_per_lpv": null,
-      "cost_per_result": 96.86,
-      "cpc": 0.93,
-      "cpm": 111.48,
-      "impressions": 827,
+      "cost_per_result": null,
+      "cpc": 1.02,
+      "cpm": 117.6,
+      "impressions": 634,
       "landing_page_views": null,
-      "link_clicks": 99,
+      "link_clicks": 73,
       "messages": 0,
       "pixel_leads": 0,
       "platform": "Google",
       "reach": null,
       "result_type": "Conversions",
-      "results": 0.95,
-      "spend": 92.19,
+      "results": 0.0,
+      "spend": 74.56,
       "unique_outbound_clicks": null,
       "uo_ctr": null
     },
@@ -87,18 +86,18 @@
       "campaign_name": "PMax_Feb26",
       "cost_per_lpv": null,
       "cost_per_result": null,
-      "cpc": 1.81,
-      "cpm": 72.97,
-      "impressions": 471,
+      "cpc": 1.45,
+      "cpm": 72.55,
+      "impressions": 419,
       "landing_page_views": null,
-      "link_clicks": 19,
+      "link_clicks": 21,
       "messages": 0,
       "pixel_leads": 0,
       "platform": "Google",
       "reach": null,
       "result_type": "Conversions",
       "results": 0.0,
-      "spend": 34.37,
+      "spend": 30.4,
       "unique_outbound_clicks": null,
       "uo_ctr": null
     }
@@ -107,89 +106,89 @@
   "currency": "USD",
   "daily": [],
   "display_name": "The Culinary School of Fort Worth",
-  "generated_at": "2026-10-30T05:16:15.157109-07:00",
+  "generated_at": "2026-11-06T05:16:20.187799-08:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 773.12,
+      "prior": 738.32,
       "trend": [
-        694.0,
         845.66,
         834.4,
         739.3,
         850.59,
         782.78,
         773.12,
-        739.31
+        738.32,
+        752.94
       ],
-      "value": 739.31
+      "value": 752.94
     },
     {
       "format": "int",
       "key": "crm_leads",
       "label": "All form fills (paid + organic)",
-      "prior": 34,
+      "prior": 31,
       "trend": [
-        25,
         34,
         46,
         26,
         42,
         30,
         34,
-        31
+        31,
+        24
       ],
-      "value": 31
+      "value": 24
     },
     {
       "format": "int",
       "key": "meta_crm_leads",
       "label": "Meta leads (Facebook form fills + tour bookings)",
-      "prior": 15,
+      "prior": 14,
       "trend": [
-        11,
         10,
         13,
         16,
         25,
         16,
         15,
-        14
+        14,
+        13
       ],
-      "value": 14
+      "value": 13
     },
     {
       "format": "money",
       "key": "meta_cpl",
       "label": "Meta cost per lead",
-      "prior": 33.43,
+      "prior": 36.04,
       "trend": [
-        34.1,
         49.04,
         40.06,
         28.79,
         21.11,
         29.34,
         33.43,
-        36.04
+        36.04,
+        41.91
       ],
-      "value": 36.04
+      "value": 41.91
     },
     {
       "format": "int",
       "key": "appointments_booked",
       "label": "Campus tours booked",
-      "prior": 5,
+      "prior": 6,
       "trend": [
-        9,
-        16,
+        15,
         10,
         11,
         8,
         7,
         5,
+        6,
         6
       ],
       "value": 6
@@ -197,10 +196,10 @@
   ],
   "insight": null,
   "insights": {
-    "creative": "The 'A real skill is earned, not handed out' video brought 10 Meta leads at $11.26, and the control video with the same words and the headline 'No online option. On purpose.' brought 9 at $7.45. The night class image, which opens 'Some skills can be automated. Cooking professionally isn't one of them,' brought 7 at $14.69. Worth testing the 'A real skill is earned' opening on a night class video, since that opening led both top ads.",
-    "doing": "All form fills were 31 at $23.85 each, against 34 at $22.74 the week before; that count includes organic and Google fills. Meta brought 14 leads at $36.04, against 15 at $33.43, and 6 campus tours were booked.",
-    "look_into": "The night class video spent $206.86 for 3 Meta leads, $68.95 each, and the night class campaign drew 169 link clicks but only 7 landing page views. Worth checking that the night class page loads and tracks.",
-    "next": "We recommend giving the four new ad sets that went live on Oct 28 a full week before judging them, and checking the night class page before it gets more budget."
+    "creative": "The night class video, which opens 'Some skills can be automated. Cooking professionally isn't one of them,' brought 14 Meta form leads at $13.05. The square night class image, which states the hours plainly (Monday to Friday, 4 to 9 pm, next cohort February 8), brought 7 at $10.28, the cheapest. The 'A real skill is earned, not handed out' video brought 6 at $12.96. Worth testing a night class video that opens with those plain facts, since the plain image is the cheapest.",
+    "doing": "All form fills were 24 at $31.37 each, against 31 at $23.82 the week before; that count includes organic and Google fills. Meta brought 13 leads at $41.91, against 14 at $36.04, and 6 campus tours were booked.",
+    "look_into": "Meta counted 37 form leads on its side, but only 13 reached the CRM with a Facebook link. Google spent $208.17 with no recorded conversions. Worth checking both tracking paths.",
+    "next": "We recommend matching this week's Meta form leads against the CRM before any further budget raise, so the cost per lead reflects every real lead."
   },
   "labels": {
     "appointments_booked": "Campus tours booked",
@@ -210,55 +209,55 @@
   },
   "metrics": {
     "appointments_booked": 6,
+    "appointments_showed": 5,
+    "cost_per_message": null,
+    "cpl": 31.37,
+    "crm_leads": 24,
+    "crm_leads_raw": 26,
+    "ctr": 0.016347,
+    "google_conversions": 0,
+    "google_spend": 208.17,
+    "impressions": 33033,
+    "landing_page_views": 104,
+    "link_clicks": 540,
+    "messages": 0,
+    "meta_cpl": 41.91,
+    "meta_crm_leads": 13,
+    "meta_spend": 544.77,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
+    "pixel_leads": 37,
+    "reach": 18310,
+    "spend": 752.94,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "prior_metrics": {
+    "appointments_booked": 6,
     "appointments_showed": 4,
     "cost_per_message": null,
-    "cpl": 23.85,
+    "cpl": 23.82,
     "crm_leads": 31,
     "crm_leads_raw": 34,
-    "ctr": 0.018147,
+    "ctr": 0.018102,
     "google_conversions": 0.951801,
-    "google_spend": 234.8,
-    "impressions": 28545,
+    "google_spend": 233.7,
+    "impressions": 28561,
     "landing_page_views": 108,
-    "link_clicks": 518,
+    "link_clicks": 517,
     "messages": 0,
     "meta_cpl": 36.04,
     "meta_crm_leads": 14,
-    "meta_spend": 504.51,
+    "meta_spend": 504.62,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
     "pixel_leads": 33,
     "reach": 16384,
-    "spend": 739.31,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
-  },
-  "prior_metrics": {
-    "appointments_booked": 5,
-    "appointments_showed": 3,
-    "cost_per_message": null,
-    "cpl": 22.74,
-    "crm_leads": 34,
-    "crm_leads_raw": 34,
-    "ctr": 0.019268,
-    "google_conversions": 2.956019,
-    "google_spend": 271.73,
-    "impressions": 27714,
-    "landing_page_views": 105,
-    "link_clicks": 534,
-    "messages": 0,
-    "meta_cpl": 33.43,
-    "meta_crm_leads": 15,
-    "meta_spend": 501.39,
-    "odoo_leads": 0,
-    "odoo_order_value": 0,
-    "odoo_orders": 0,
-    "odoo_won": 0,
-    "pixel_leads": 17,
-    "reach": 15076,
-    "spend": 773.12,
+    "spend": 738.32,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -267,64 +266,64 @@
   "segments": [],
   "top_ads": [
     {
-      "ad_name": "DCT-VID- New VID + Winner Copy-APPLY",
-      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
-      "cost_per_result": 11.26,
-      "crm_leads": null,
-      "hook": "Video. Opens 'A real skill is earned, not handed out.' Cooking trained like a sport, nine months of chef coaching.",
-      "link_clicks": 80,
-      "messages": 0,
-      "pixel_leads": 10,
-      "preview_url": "https://fb.me/1X0FwDhdT0tICIM",
-      "spend": 112.64
-    },
-    {
-      "ad_name": "10.01.26-Control Ad-VID- EP 122230453694288652-LEARN MORE",
-      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
-      "cost_per_result": 7.45,
-      "crm_leads": null,
-      "hook": "Video. Headline 'No online option. On purpose.' Opens 'A real skill is earned, not handed out.' Learn more about the program.",
-      "link_clicks": 45,
-      "messages": 0,
-      "pixel_leads": 9,
-      "preview_url": "https://fb.me/1WTxYO3fmeHJzVJ",
-      "spend": 67.01
-    },
-    {
-      "ad_name": "DCT-IMG- Feb Night Class Cohort-Apply",
+      "ad_name": "DCT-VID- Feb Night Class Cohort-Apply",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_result": 14.69,
+      "cost_per_result": 13.05,
       "crm_leads": null,
-      "hook": "Image. Opens 'Some skills can be automated. Cooking professionally isn't one of them.' Nine months of night training, keep your day job.",
-      "link_clicks": 62,
+      "hook": "Video. Opens 'Some skills can be automated. Cooking professionally isn't one of them.' Night class while you keep your day job.",
+      "link_clicks": 130,
       "messages": 0,
-      "pixel_leads": 7,
-      "preview_url": "https://fb.me/2a0EuRwRBXh7xEc",
-      "spend": 102.84
+      "pixel_leads": 14,
+      "preview_url": "https://fb.me/1VxidYGxWHep0eq",
+      "spend": 182.68
     },
     {
       "ad_name": "DCT-Square IMG- Four to Nine-Night Class Cohort-LEARN MORE",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_result": 0.72,
+      "cost_per_result": 10.28,
       "crm_leads": null,
-      "hook": "Image. Headline 'Culinary night class, 4 to 9 pm.' Same chefs and kitchens as the day class; next cohort starts February 8.",
-      "link_clicks": 3,
+      "hook": "Image. Night class Monday to Friday, 4 to 9 pm. Same chefs and kitchens as the day class; next cohort starts February 8.",
+      "link_clicks": 39,
       "messages": 0,
-      "pixel_leads": 4,
-      "preview_url": "https://fb.me/2bN1cvpoBx823wd",
-      "spend": 2.88
+      "pixel_leads": 7,
+      "preview_url": "https://fb.me/2dhay7R1fYUFMDG",
+      "spend": 71.94
     },
     {
-      "ad_name": "DCT-VID- Feb Night Class Cohort-Apply",
-      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_result": 68.95,
+      "ad_name": "10.01.26-Control Ad-VID- EP 122230453694288652-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+      "cost_per_result": 12.96,
       "crm_leads": null,
-      "hook": "Video. Opens 'Some skills can be automated. Cooking professionally isn't one of them.' Night class while you keep your day job.",
-      "link_clicks": 103,
+      "hook": "Video. Headline 'No online option. On purpose.' Opens 'A real skill is earned, not handed out.' Learn more about the program.",
+      "link_clicks": 62,
       "messages": 0,
-      "pixel_leads": 3,
-      "preview_url": "https://fb.me/2cFYELCq2ZnwYRz",
-      "spend": 206.86
+      "pixel_leads": 6,
+      "preview_url": "https://fb.me/1WZX1VSHMJjwoyc",
+      "spend": 77.77
+    },
+    {
+      "ad_name": "DCT- IMG- 9:16-Night Class Cohort-LEARN MORE",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+      "cost_per_result": 15.04,
+      "crm_leads": null,
+      "hook": "Vertical image. Same night class copy: Monday to Friday, 4 to 9 pm, next cohort starts February 8. Apply or request info.",
+      "link_clicks": 36,
+      "messages": 0,
+      "pixel_leads": 4,
+      "preview_url": "https://fb.me/24c24qzStV1pDPb",
+      "spend": 60.14
+    },
+    {
+      "ad_name": "DCT-VID- New VID + Winner Copy-APPLY",
+      "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+      "cost_per_result": 12.77,
+      "crm_leads": null,
+      "hook": "Video. Opens 'A real skill is earned, not handed out.' Cooking trained like a sport, nine months of chef coaching.",
+      "link_clicks": 34,
+      "messages": 0,
+      "pixel_leads": 4,
+      "preview_url": "https://fb.me/1TfqvHppRtMpDov",
+      "spend": 51.07
     }
   ],
   "unavailable": [
@@ -343,7 +342,7 @@
         "ok": true
       },
       {
-        "detail": "meta 504.51, google 234.80, tiktok 0.00, total 739.31",
+        "detail": "meta 544.77, google 208.17, tiktok 0.00, total 752.94",
         "name": "spend",
         "ok": true
       },
@@ -353,17 +352,17 @@
         "ok": true
       },
       {
-        "detail": "raw 34, counted 31",
+        "detail": "raw 26, counted 24",
         "name": "crm_leads",
         "ok": true
       },
       {
-        "detail": "expected 23.85, got 23.85",
+        "detail": "expected 31.37, got 31.37",
         "name": "cpl",
         "ok": true
       },
       {
-        "detail": "expected 14 leads at 36.04, got 14 at 36.04",
+        "detail": "expected 13 leads at 41.91, got 13 at 41.91",
         "name": "meta_cpl",
         "ok": true
       },
@@ -393,7 +392,7 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-10-23=10, 2026-10-24=8, 2026-10-25=13, 2026-10-26=7, 2026-10-27=10, 2026-10-28=14, 2026-10-29=6; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-10-30=9, 2026-10-31=7, 2026-11-01=13, 2026-11-02=8, 2026-11-03=6, 2026-11-04=8, 2026-11-05=4; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -408,7 +407,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 33.00, CRM leads 31",
+        "detail": "meta pixel leads 37.00, CRM leads 24",
         "name": "tracking_drift",
         "ok": true
       }
@@ -416,8 +415,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-10-29",
-    "label": "Oct 23 to Oct 29",
-    "start": "2026-10-23"
+    "end": "2026-11-05",
+    "label": "Oct 30 to Nov 5",
+    "start": "2026-10-30"
   }
 }
