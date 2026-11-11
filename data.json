@@ -5,23 +5,364 @@
     "Nov 2: changed the budget on the Google branded search campaign. The amount is not in the change history."
   ],
   "alarms": [],
+  "all_ads": {
+    "rows": [
+      {
+        "ad_name": "DCT-VID- Feb Night Class Cohort-Apply",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 477,
+        "launch_cpl": 17.53,
+        "launch_leads": 48,
+        "launch_spend": 841.65,
+        "preview_url": "https://fb.me/28Q6Ax5ujOdCTiY",
+        "status": "Running",
+        "week_clicks": 130,
+        "week_cpl": 13.06,
+        "week_leads": 14,
+        "week_spend": 182.83
+      },
+      {
+        "ad_name": "Control Ad-IMG-EP 122223864254288652-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 386,
+        "launch_cpl": 41.45,
+        "launch_leads": 20,
+        "launch_spend": 829.06,
+        "preview_url": "https://fb.me/2ci9Br6y99dTruM",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-VID- New VID + Winner Copy-APPLY",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 540,
+        "launch_cpl": 19.45,
+        "launch_leads": 38,
+        "launch_spend": 738.94,
+        "preview_url": "https://fb.me/277wNbu6gxiY7Tl",
+        "status": "Running",
+        "week_clicks": 35,
+        "week_cpl": 12.78,
+        "week_leads": 4,
+        "week_spend": 51.1
+      },
+      {
+        "ad_name": "DCT-IMG- LEAD-VID ADS-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 352,
+        "launch_cpl": 37.97,
+        "launch_leads": 16,
+        "launch_spend": 607.58,
+        "preview_url": "https://fb.me/245iUsYImDSghXq",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-VID- Night Class Cohort-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 268,
+        "launch_cpl": 10.69,
+        "launch_leads": 48,
+        "launch_spend": 512.96,
+        "preview_url": "https://fb.me/1WB6nzu31RvdVHy",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-VID-One Chef Next to Every Student -LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 250,
+        "launch_cpl": 59.62,
+        "launch_leads": 6,
+        "launch_spend": 357.69,
+        "preview_url": "https://fb.me/2AKTugBnwkn602u",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-VID- No Online Option. On Purpose-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 204,
+        "launch_cpl": 23.31,
+        "launch_leads": 15,
+        "launch_spend": 349.63,
+        "preview_url": "https://fb.me/2jSfAy5vTIfxvtK",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-IMG- Feb Night Class Cohort-Apply",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 208,
+        "launch_cpl": 19.87,
+        "launch_leads": 16,
+        "launch_spend": 317.9,
+        "preview_url": "https://fb.me/20Q33qhoJo9VjG1",
+        "status": "Running",
+        "week_clicks": 15,
+        "week_cpl": 11.51,
+        "week_leads": 2,
+        "week_spend": 23.02
+      },
+      {
+        "ad_name": "DCT-IMG- Night Class Cohort-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 154,
+        "launch_cpl": 9.12,
+        "launch_leads": 30,
+        "launch_spend": 273.75,
+        "preview_url": "https://fb.me/1Tl4WhURV94YsUs",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "10.01.26-Control Ad-VID- EP 122230453694288652-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 179,
+        "launch_cpl": 13.74,
+        "launch_leads": 19,
+        "launch_spend": 260.97,
+        "preview_url": "https://fb.me/2g9d4VY3ZmtUA5X",
+        "status": "Running",
+        "week_clicks": 62,
+        "week_cpl": 12.96,
+        "week_leads": 6,
+        "week_spend": 77.78
+      },
+      {
+        "ad_name": "DCT-IMG-This is A Real Trade Not A Dream -LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 115,
+        "launch_cpl": 46.71,
+        "launch_leads": 5,
+        "launch_spend": 233.53,
+        "preview_url": "https://fb.me/yJrvKRPKoS99mP7",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "Control Ad-VID-EP 122223859178288652-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 33,
+        "launch_cpl": 89.68,
+        "launch_leads": 1,
+        "launch_spend": 89.68,
+        "preview_url": "https://fb.me/2EE58xUKcAvQ2we",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-Square IMG- Four to Nine-Night Class Cohort-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 42,
+        "launch_cpl": 6.81,
+        "launch_leads": 11,
+        "launch_spend": 74.86,
+        "preview_url": "https://fb.me/2Xkl0Kw3nCgLBKW",
+        "status": "Running",
+        "week_clicks": 39,
+        "week_cpl": 10.28,
+        "week_leads": 7,
+        "week_spend": 71.96
+      },
+      {
+        "ad_name": "DCT-IMG-One Chef Next to Every Student -LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 39,
+        "launch_cpl": 72.35,
+        "launch_leads": 1,
+        "launch_spend": 72.35,
+        "preview_url": "https://fb.me/23S9uvwBGJD1q67",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT- IMG- 9:16-Night Class Cohort-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 36,
+        "launch_cpl": 15.75,
+        "launch_leads": 4,
+        "launch_spend": 62.99,
+        "preview_url": "https://fb.me/yJ7iv8105uJEJtc",
+        "status": "Running",
+        "week_clicks": 36,
+        "week_cpl": 15.04,
+        "week_leads": 4,
+        "week_spend": 60.14
+      },
+      {
+        "ad_name": "9.15-Control Ad-IMG-EP 122226916628288652-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 29,
+        "launch_cpl": 47.76,
+        "launch_leads": 1,
+        "launch_spend": 47.76,
+        "preview_url": "https://fb.me/28OmIWo5dr6Rhj2",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-VID- Angle 6- No Pause Button-APPLY",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 22,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 43.84,
+        "preview_url": "https://fb.me/2mTF2ZJjidP4W5t",
+        "status": "Paused",
+        "week_clicks": 20,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 39.07
+      },
+      {
+        "ad_name": "DCT-Angle 4-See It for Yourself-20-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 13,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 40.49,
+        "preview_url": "https://fb.me/1WCzF4HeoPXZ9ZD",
+        "status": "Running",
+        "week_clicks": 12,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 39.08
+      },
+      {
+        "ad_name": "DCT-VID- No Online Option. On Purpose-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 7,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 28.68,
+        "preview_url": "https://fb.me/2hvOydDMicc11N4",
+        "status": "Ended",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "Control Ad-VID-EP  1222249497322886522-LEARN MORE",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 11,
+        "launch_cpl": 28.27,
+        "launch_leads": 1,
+        "launch_spend": 28.27,
+        "preview_url": "https://fb.me/1XHimsQpLqpZPlp",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "DCT-IMG- New IMG + Winner Copy-APPLY",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
+        "launch_clicks": 18,
+        "launch_cpl": 13.53,
+        "launch_leads": 2,
+        "launch_spend": 27.05,
+        "preview_url": "https://fb.me/245963cb6B6FaFC",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "Control-VID- Night Class Cohort- EP 122230133450288652-Apply",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 10,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 19.59,
+        "preview_url": "https://fb.me/24JpQZ37bPeHEdc",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "10.13.26-Control-VID- Night Class Cohort- EP 122232032822288652-Apply -Feb8",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 3,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 8.55,
+        "preview_url": "https://fb.me/2cJDx3SWAjTl1FU",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      },
+      {
+        "ad_name": "Control-IMG- Night Class Cohort- EP 122230135040288652-Apply",
+        "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
+        "launch_clicks": 0,
+        "launch_cpl": null,
+        "launch_leads": 0,
+        "launch_spend": 1.61,
+        "preview_url": "https://fb.me/1Y1dRMYY62MUzoH",
+        "status": "Paused",
+        "week_clicks": 0,
+        "week_cpl": null,
+        "week_leads": 0,
+        "week_spend": 0.0
+      }
+    ],
+    "since": "2026-07-20"
+  },
   "campaigns": [
     {
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_lpv": 28.15,
-      "cost_per_result": 12.51,
+      "cost_per_lpv": 28.16,
+      "cost_per_result": 12.52,
       "cpc": 1.54,
       "cpm": 16.49,
-      "impressions": 20487,
+      "impressions": 20494,
       "landing_page_views": 12,
       "link_clicks": 220,
       "messages": 0,
       "pixel_leads": 27,
       "platform": "Meta",
-      "reach": 12431,
+      "reach": 12453,
       "result_type": "Website leads",
       "results": 27.0,
-      "spend": 337.78,
+      "spend": 337.95,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -29,18 +370,18 @@
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
       "cost_per_lpv": 2.25,
       "cost_per_result": 20.7,
-      "cpc": 1.62,
-      "cpm": 21.48,
-      "impressions": 9638,
+      "cpc": 1.6,
+      "cpm": 21.47,
+      "impressions": 9643,
       "landing_page_views": 92,
-      "link_clicks": 128,
+      "link_clicks": 129,
       "messages": 0,
       "pixel_leads": 10,
       "platform": "Meta",
       "reach": 5879,
       "result_type": "Website leads",
       "results": 10.0,
-      "spend": 206.99,
+      "spend": 207.03,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -68,8 +409,8 @@
       "cost_per_lpv": null,
       "cost_per_result": null,
       "cpc": 1.02,
-      "cpm": 117.6,
-      "impressions": 634,
+      "cpm": 117.97,
+      "impressions": 632,
       "landing_page_views": null,
       "link_clicks": 73,
       "messages": 0,
@@ -106,7 +447,36 @@
   "currency": "USD",
   "daily": [],
   "display_name": "The Culinary School of Fort Worth",
-  "generated_at": "2026-11-06T05:16:20.187799-08:00",
+  "generated_at": "2026-11-11T11:56:07.766311-08:00",
+  "google_conversion_types": {
+    "rows": [
+      {
+        "name": "Tours booked",
+        "prior": 0,
+        "since_launch": 24.0,
+        "week": 0
+      },
+      {
+        "name": "Tours completed",
+        "prior": 1.0,
+        "since_launch": 17.0,
+        "week": 0
+      },
+      {
+        "name": "Applications",
+        "prior": 1.0,
+        "since_launch": 19.0,
+        "week": 0
+      },
+      {
+        "name": "Enrollments",
+        "prior": 0,
+        "since_launch": 8.0,
+        "week": 0
+      }
+    ],
+    "since": "2026-07-20"
+  },
   "headline": [
     {
       "format": "money",
@@ -121,9 +491,9 @@
         782.78,
         773.12,
         738.32,
-        752.94
+        753.15
       ],
-      "value": 752.94
+      "value": 753.15
     },
     {
       "format": "int",
@@ -145,7 +515,7 @@
     {
       "format": "int",
       "key": "meta_crm_leads",
-      "label": "Meta leads (Facebook form fills + tour bookings)",
+      "label": "Meta leads (form fills + tours)",
       "prior": 14,
       "trend": [
         10,
@@ -172,9 +542,43 @@
         29.34,
         33.43,
         36.04,
-        41.91
+        41.92
       ],
-      "value": 41.91
+      "value": 41.92
+    },
+    {
+      "format": "int",
+      "key": "google_crm_leads",
+      "label": "Google leads (form fills + tours)",
+      "prior": 7,
+      "trend": [
+        11,
+        7,
+        3,
+        9,
+        7,
+        5,
+        7,
+        3
+      ],
+      "value": 3
+    },
+    {
+      "format": "money",
+      "key": "google_cpl",
+      "label": "Google cost per lead",
+      "prior": 33.39,
+      "trend": [
+        32.29,
+        44.81,
+        92.89,
+        35.87,
+        44.76,
+        54.35,
+        33.39,
+        69.39
+      ],
+      "value": 69.39
     },
     {
       "format": "int",
@@ -204,45 +608,53 @@
   "labels": {
     "appointments_booked": "Campus tours booked",
     "crm_leads": "All form fills (paid + organic)",
+    "google_cpl": "Google cost per lead",
+    "google_crm_leads": "Google leads (form fills + tours)",
     "meta_cpl": "Meta cost per lead",
-    "meta_crm_leads": "Meta leads (Facebook form fills + tour bookings)"
+    "meta_crm_leads": "Meta leads (form fills + tours)"
   },
   "metrics": {
     "appointments_booked": 6,
     "appointments_showed": 5,
+    "cost_per_booking": 125.52,
     "cost_per_message": null,
-    "cpl": 31.37,
+    "cpl": 31.38,
     "crm_leads": 24,
     "crm_leads_raw": 26,
-    "ctr": 0.016347,
+    "ctr": 0.016373,
     "google_conversions": 0,
+    "google_cpl": 69.39,
+    "google_crm_leads": 3,
     "google_spend": 208.17,
-    "impressions": 33033,
+    "impressions": 33043,
     "landing_page_views": 104,
-    "link_clicks": 540,
+    "link_clicks": 541,
     "messages": 0,
-    "meta_cpl": 41.91,
+    "meta_cpl": 41.92,
     "meta_crm_leads": 13,
-    "meta_spend": 544.77,
+    "meta_spend": 544.98,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
     "pixel_leads": 37,
-    "reach": 18310,
-    "spend": 752.94,
+    "reach": 18332,
+    "spend": 753.15,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
   "prior_metrics": {
     "appointments_booked": 6,
     "appointments_showed": 4,
+    "cost_per_booking": 123.05,
     "cost_per_message": null,
     "cpl": 23.82,
     "crm_leads": 31,
     "crm_leads_raw": 34,
     "ctr": 0.018102,
     "google_conversions": 0.951801,
+    "google_cpl": 33.39,
+    "google_crm_leads": 7,
     "google_spend": 233.7,
     "impressions": 28561,
     "landing_page_views": 108,
@@ -268,62 +680,62 @@
     {
       "ad_name": "DCT-VID- Feb Night Class Cohort-Apply",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
-      "cost_per_result": 13.05,
+      "cost_per_result": 13.06,
       "crm_leads": null,
-      "hook": "Video. Opens 'Some skills can be automated. Cooking professionally isn't one of them.' Night class while you keep your day job.",
+      "hook": null,
       "link_clicks": 130,
       "messages": 0,
       "pixel_leads": 14,
-      "preview_url": "https://fb.me/1VxidYGxWHep0eq",
-      "spend": 182.68
+      "preview_url": "https://fb.me/28Q6Ax5ujOdCTiY",
+      "spend": 182.83
     },
     {
       "ad_name": "DCT-Square IMG- Four to Nine-Night Class Cohort-LEARN MORE",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
       "cost_per_result": 10.28,
       "crm_leads": null,
-      "hook": "Image. Night class Monday to Friday, 4 to 9 pm. Same chefs and kitchens as the day class; next cohort starts February 8.",
+      "hook": null,
       "link_clicks": 39,
       "messages": 0,
       "pixel_leads": 7,
-      "preview_url": "https://fb.me/2dhay7R1fYUFMDG",
-      "spend": 71.94
+      "preview_url": "https://fb.me/2Xkl0Kw3nCgLBKW",
+      "spend": 71.96
     },
     {
       "ad_name": "10.01.26-Control Ad-VID- EP 122230453694288652-LEARN MORE",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
       "cost_per_result": 12.96,
       "crm_leads": null,
-      "hook": "Video. Headline 'No online option. On purpose.' Opens 'A real skill is earned, not handed out.' Learn more about the program.",
+      "hook": null,
       "link_clicks": 62,
       "messages": 0,
       "pixel_leads": 6,
-      "preview_url": "https://fb.me/1WZX1VSHMJjwoyc",
-      "spend": 77.77
+      "preview_url": "https://fb.me/2g9d4VY3ZmtUA5X",
+      "spend": 77.78
     },
     {
       "ad_name": "DCT- IMG- 9:16-Night Class Cohort-LEARN MORE",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- Night Class- CBO-Scaled 9.27",
       "cost_per_result": 15.04,
       "crm_leads": null,
-      "hook": "Vertical image. Same night class copy: Monday to Friday, 4 to 9 pm, next cohort starts February 8. Apply or request info.",
+      "hook": null,
       "link_clicks": 36,
       "messages": 0,
       "pixel_leads": 4,
-      "preview_url": "https://fb.me/24c24qzStV1pDPb",
+      "preview_url": "https://fb.me/yJ7iv8105uJEJtc",
       "spend": 60.14
     },
     {
       "ad_name": "DCT-VID- New VID + Winner Copy-APPLY",
       "campaign_name": "KS-COLD-CSFTW-Lead Conversion- CBO- Scaled 9.27",
-      "cost_per_result": 12.77,
+      "cost_per_result": 12.78,
       "crm_leads": null,
-      "hook": "Video. Opens 'A real skill is earned, not handed out.' Cooking trained like a sport, nine months of chef coaching.",
-      "link_clicks": 34,
+      "hook": null,
+      "link_clicks": 35,
       "messages": 0,
       "pixel_leads": 4,
-      "preview_url": "https://fb.me/1TfqvHppRtMpDov",
-      "spend": 51.07
+      "preview_url": "https://fb.me/277wNbu6gxiY7Tl",
+      "spend": 51.1
     }
   ],
   "unavailable": [
@@ -342,7 +754,7 @@
         "ok": true
       },
       {
-        "detail": "meta 544.77, google 208.17, tiktok 0.00, total 752.94",
+        "detail": "meta 544.98, google 208.17, tiktok 0.00, total 753.15",
         "name": "spend",
         "ok": true
       },
@@ -357,13 +769,28 @@
         "ok": true
       },
       {
-        "detail": "expected 31.37, got 31.37",
+        "detail": "expected 31.38, got 31.38",
         "name": "cpl",
         "ok": true
       },
       {
-        "detail": "expected 13 leads at 41.91, got 13 at 41.91",
+        "detail": "expected 13 leads at 41.92, got 13 at 41.92",
         "name": "meta_cpl",
+        "ok": true
+      },
+      {
+        "detail": "expected 3 leads at 69.39, got 3 at 69.39",
+        "name": "google_cpl",
+        "ok": true
+      },
+      {
+        "detail": "conversion types recounted from raw rows",
+        "name": "google_conversion_types",
+        "ok": true
+      },
+      {
+        "detail": "24 ads recounted from raw rows",
+        "name": "all_ads",
         "ok": true
       },
       {
