@@ -447,7 +447,7 @@
   "currency": "USD",
   "daily": [],
   "display_name": "The Culinary School of Fort Worth",
-  "generated_at": "2026-11-11T11:56:07.766311-08:00",
+  "generated_at": "2026-11-11T12:13:07.947027-08:00",
   "google_conversion_types": {
     "rows": [
       {
@@ -519,7 +519,7 @@
       "prior": 14,
       "trend": [
         10,
-        13,
+        28,
         16,
         25,
         16,
@@ -536,7 +536,7 @@
       "prior": 36.04,
       "trend": [
         49.04,
-        40.06,
+        18.6,
         28.79,
         21.11,
         29.34,
